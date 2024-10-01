@@ -5,3 +5,6 @@ Goals for this website:
 - Write small essays to prove understanding of mathmatical and scientific concepts
 - Relearn Html and Java
 - Learn Javascript
+
+To-do list
+- Create avatar
