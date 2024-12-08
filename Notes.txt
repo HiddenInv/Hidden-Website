@@ -3,7 +3,6 @@ Goals for this website:
 - Run various simulations
 - Create Spaced Repition system
 - Japanese progress
-- Write small essays to prove understanding of mathmatical and scientific concepts
 - Relearn Html and Java
 - Learn Javascript
 
